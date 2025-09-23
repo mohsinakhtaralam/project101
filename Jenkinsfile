@@ -12,7 +12,7 @@ pipeline {
             steps {
                 echo 'Cloning..'
                 // cloning the repository
-                git branch: 'main', url: 'https://github.com/mohsinakhtaralam/napp.git'
+                git branch: 'main', url: 'https://github.com/mohsinakhtaralam/project101.git'
                 
             }
         }
